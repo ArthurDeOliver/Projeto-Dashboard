@@ -176,7 +176,7 @@ ul{
 
 
 .header_grid2{
-    box-shadow: 0 0 5px #00000063;
+    box-shadow: 0 0 10px #00000063;
     background-color: white;
     border-radius: 0.3em;
     padding: 1em;
@@ -226,15 +226,15 @@ button:hover{
 }
 
 .img1{
-    box-shadow: 0 0 7px #00000063;
+    box-shadow: 0 0 10px #00000063;
     object-fit: contain;
     grid-area: img1;
 }
 .img2{
-    box-shadow: 0 0 7px #00000063;
+    box-shadow: 0 0 10px #00000063;
     grid-area: img2;
 }
 .img3{
-    box-shadow: 0 0 7px #00000063;
+    box-shadow: 0 0 10px #00000063;
     grid-area: img3;
 }
